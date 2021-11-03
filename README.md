@@ -1,6 +1,7 @@
 # Windows Create Static route configurations
 
 [![code-style-image]][code-style]
+![supported-versions-image]
 
 ### Overview
 
@@ -73,3 +74,4 @@ to run the script make sure you have the required files in both the next_hops an
 
 [code-style-image]: https://img.shields.io/badge/code%20style-black-000000.svg
 [code-style]: https://github.com/psf/black
+[supported-versions-image]: https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue.svg
